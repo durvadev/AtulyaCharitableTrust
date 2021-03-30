@@ -152,7 +152,7 @@ header .header-bottom{padding:6px;background-color:white;}
 
 @media screen and (max-width:572px)
 {
-  .slider-captions{display:none;}}
+  .slider-captions{display:none;}
   .slider-title{font-size:66px;font-weight:600;color:white;letter-spacing:-3px;}
   .slider-text{margin-bottom:20px;color:white;}
   .slider-img{background:-moz-linear-gradient(top, rgba(45, 32, 44, 0.3) 0%, rgba(45, 32, 44, 0.1) 100%);background:-webkit-linear-gradient(top, rgba(45, 32, 44, 0.3) 0%, rgba(45, 32, 44, 0.1) 100%);
@@ -169,7 +169,7 @@ header .header-bottom{padding:6px;background-color:white;}
   .slider .owl-dots .owl-dot.active span{background-color:white;}
   .slider .owl-dots .owl-dot.active span,
   .slider .owl-controls.clickable .owl-page:hover span{background-color:white;filter:Alpha(Opacity=100);/*IE7 fix*/opacity:1;}
-  .slider .col-lg-offset-2{float:none;margin:auto;}
+  .slider .col-lg-offset-2{float:none;margin:auto;}}
 
 /* ===================================== About CSS ================================== */
 .about-us{
