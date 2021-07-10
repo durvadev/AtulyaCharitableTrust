@@ -291,7 +291,6 @@ padding:50px;}
 /* ===================================== Gallery Style================================== */
 .main {  max-width: 100%;
   margin: 0 auto;
-  display: flex;
   flex-wrap: wrap;}
 h1{font-size: 50px;word-break: break-all;}
 .column {float: left;width:calc(100% / 5);display: none;}
@@ -315,6 +314,7 @@ h1{font-size: 50px;word-break: break-all;}
 .gallery-filter{width:100%;text-align:center;padding:5px;}
 .gallery-filter .btn{background-color:white; margin:5px;}
 .gallery img{display:block; width:150px;height:100px;padding:5px;}
+.gallery{display:inline;}
 .gallery_product{
   flex-grow:1;
   margin: .2rem;
